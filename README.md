@@ -5,4 +5,4 @@ This repository contains solutions to problem sets for 🖥️CS50's Intro to Pr
 
 
 ### Week 0 - Functions, Variables
--[Einstein](https://github.com/KTurau/cs50python/blob/main/pset0%20-%20functions%20and%20variables/einstein.py) - calculates e = mc^2
+- [Einstein](https://github.com/KTurau/cs50python/blob/main/pset0%20-%20functions%20and%20variables/einstein.py) - calculates e = mc^2
