@@ -1,2 +1,2 @@
-# Python-practice
-Contains simple code snippets + notes written by me in Python for initial practice. It also contains code snippets that have proved useful to me in solving problems.
+# cs50python
+My problem sets for CS50 Python Course website : https://cs50.harvard.edu/python/2022/
