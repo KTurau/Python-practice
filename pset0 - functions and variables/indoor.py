@@ -3,7 +3,6 @@
 # a str of your own as an argument to input.
 
 
-
 some_input = input().lower()
 print(some_input)
 
