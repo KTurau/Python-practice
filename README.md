@@ -31,6 +31,18 @@ This repository contains solutions to problem sets for 🖥️CS50's Intro to Pr
 - [Grocery List](https://github.com/KTurau/cs50python/blob/main/pset3%20-%20exceptions/grocery.py) - creates a gocery list from user input, terminates on ctl+D, catches any KeyErrors
 - [Outdates](https://github.com/KTurau/cs50python/blob/main/pset3%20-%20exceptions/outdated.py) - converts MM/DD/YYYY and Month Day, Year to YYYY-MM-DD, continually asks for proper input
 
+### Week 4 - [Libraries](https://cs50.harvard.edu/python/2022/psets/4/)
+- [Emojize](https://github.com/KTurau/cs50python/blob/main/pset4%20-%20libraries/emojize.py) - uses emoji library to return input as emoji
+- [Frank, Ian and Glen's Letters](https://github.com/KTurau/cs50python/blob/main/pset4%20-%20libraries/figlet.py) - Renders text in figlet fonts chosen by user's command line arg
+- [Adieu, Adieu](https://github.com/KTurau/cs50python/blob/main/pset4%20-%20libraries/adieu.py) - uses inflect library to print a list of names as "name, name, ... and name"
+- [Guessing Game](https://github.com/KTurau/cs50python/blob/main/pset4%20-%20libraries/game.py) - uses random library to make a number guessing game
+- [Little Professor](https://github.com/KTurau/cs50python/blob/main/pset4%20-%20libraries/professor.py) - generates addition problems of varying difficulty based on user input
+- [Bitcoin Price Index](https://github.com/KTurau/cs50python/blob/main/pset4%20-%20libraries/bitcoin.py) - uses requests and json libraries to pull BTC price from site
+
+
+
+
+
 
 
 
