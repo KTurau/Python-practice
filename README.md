@@ -40,7 +40,10 @@ This repository contains solutions to problem sets for 🖥️CS50's Intro to Pr
 - [Bitcoin Price Index](https://github.com/KTurau/cs50python/blob/main/pset4%20-%20libraries/bitcoin.py) - uses requests and json libraries to pull BTC price from site
 
 ### Week 5 - [Unit Tests](https://cs50.harvard.edu/python/2022/psets/5/)
-- [Testing my twittr](https://github.com/KTurau/cs50python/blob/main/pset5%20-%20unit%20tests/test_twttr/test_twttr.py) - tests prior function under various cases
+- [Testing my twittr](https://github.com/KTurau/cs50python/blob/main/pset5%20-%20unit%20tests/test_twttr.py) - tests prior function under various cases
+- [Back to the Bank](https://github.com/KTurau/cs50python/blob/main/pset5%20-%20unit%20tests/test_bank.py) - tests prior function under various cases
+- [Re-requesting a vanity plate](https://github.com/KTurau/cs50python/blob/main/pset5%20-%20unit%20tests/test_plates.py) - tests prior function under various cases
+- [Refueling]() - uses pytest to check for ZeroDivisionErrors and ValueErrors
 
 
 
